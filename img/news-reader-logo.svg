@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg viewBox="0 0 500 501" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <rect id="Rectangle" fill="#808080" x="0" y="0.302230916" width="500" height="500" rx="40"></rect>
+  <path d="M250,0.302230916 L500,251.5 L500,460.048328 C500,482.120836 482.120849,500.021615 460.048357,500.048298 L250,500.302231 L0,250 L0,40.3022309 C-2.705415e-15,18.2108409 17.90861,0.302230916 40,0.302230916 L250,0.302230916 Z" id="Path" fill="#D8D8D8"></path>
+</svg>
