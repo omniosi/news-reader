@@ -6,16 +6,27 @@
   box-sizing: inherit;
 }
 body{
-  background: #8b7e7e;
+  background: #d8d8d8;
   font: 400 16px/1.5 sans-serif;
   padding: 10px;
+}
+button{
+  font-size: 2em;
+}
+input{
+  font-size: 1.5em;
 }
 .logo{
   width: 3em;
   height: 3em;
   display: inline-block;
+  box-shadow: 1px 1px 10px 0 rgba(0, 0, 0, 0.35);
 }
 .title{
-  font-size: 2em;
+  font-size: 2.5em;
   font-weight: 700;
+}
+.controls{
+  display: flex;
+  flex: 0 1 0;
 }
