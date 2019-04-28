@@ -45,6 +45,10 @@
     {
       "class": "group",
       "id": "224CD0F4-68D5-4E99-A2AE-17B657AC44A3"
+    },
+    {
+      "class": "shapePath",
+      "id": "8A85562B-3AE4-4983-97DE-9D2CEC835158"
     }
   ],
   "name": "light",
