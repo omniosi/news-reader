@@ -1,0 +1,70 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "994AE180-F269-4D92-9265-6A3E6DDBCE2E",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "0E8D5ED9-80DF-4184-8E8A-55019D61037C",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "svg",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "D869E1D7-C6E9-493F-9ED5-0978FBC7FC88",
+    "height": 501,
+    "width": 500,
+    "x": 0,
+    "y": 0
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout",
+    "do_objectID": "7FBEF4B9-E39A-452A-9997-B2425E55ADF4"
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "B8DF31E2-72CC-4682-BEB5-F5084A8CCB00"
+    },
+    {
+      "class": "shapePath",
+      "id": "AD0C19D7-DA92-4F13-A823-3533A8C792C2"
+    }
+  ],
+  "name": "news-reader-logo-dark",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "86427BEC-9A44-46EA-9C3B-482971AB3206",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}
