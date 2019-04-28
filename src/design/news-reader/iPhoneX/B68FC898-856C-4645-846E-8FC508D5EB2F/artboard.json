@@ -34,7 +34,7 @@
     "_class": "simpleGrid",
     "do_objectID": "41806EAE-0A8E-4D3E-8C02-B6A26249CCAC",
     "gridSize": 16,
-    "isEnabled": true,
+    "isEnabled": false,
     "thickGridTimes": 10
   },
   "groupLayout": {
@@ -60,7 +60,7 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 2,
   "layers": [
     {
       "class": "symbolInstance",
@@ -79,24 +79,16 @@
       "id": "5F4DF89E-E479-436F-A969-5964EFBF1363"
     },
     {
-      "class": "text",
-      "id": "5F2DEA7A-EC76-4B17-BBB6-9BDCEB4565A6"
+      "class": "group",
+      "id": "85344D73-4EB3-49DB-A044-EBB0BA0070EE"
     },
     {
-      "class": "text",
-      "id": "AC49FFF9-7E00-41CC-910D-2D8813DFBFAE"
+      "class": "group",
+      "id": "3CEFA7BE-6F46-4A41-8AC8-EA72D4EC7DB6"
     },
     {
-      "class": "text",
-      "id": "7DDB11BF-4A34-415E-8E5A-2959DB5B9E8E"
-    },
-    {
-      "class": "text",
-      "id": "4070D882-83CB-4C79-9FD2-EC4002CCFF8F"
-    },
-    {
-      "class": "text",
-      "id": "FB3F1F3B-E61D-4823-8DD9-A23EA74BDB36"
+      "class": "group",
+      "id": "38B572B9-D94B-4909-B529-0E3F85721FD7"
     },
     {
       "class": "group",
@@ -105,18 +97,6 @@
     {
       "class": "group",
       "id": "D7DA138A-A95A-4A93-9A9D-E75576C7CDEF"
-    },
-    {
-      "class": "rectangle",
-      "id": "77D56932-494D-44DB-A0AC-161A8094CE1B"
-    },
-    {
-      "class": "rectangle",
-      "id": "D07F97EF-038B-4979-9440-19131D714F96"
-    },
-    {
-      "class": "rectangle",
-      "id": "B7C3B538-AB01-4330-A0EB-36CBCCE6DA9B"
     }
   ],
   "name": "Mobile Portrait",

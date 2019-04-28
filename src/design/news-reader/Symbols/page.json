@@ -46,18 +46,6 @@
   "layerListExpandedType": 0,
   "layers": [
     {
-      "class": "artboard",
-      "id": "4C6E3031-D406-43C9-AA5D-59FC28004816"
-    },
-    {
-      "class": "artboard",
-      "id": "77F4CC71-AAF0-495C-92CC-9F3546681D23"
-    },
-    {
-      "class": "artboard",
-      "id": "4C8270D4-A4F6-4181-9F35-785BBCB6C47E"
-    },
-    {
       "class": "symbolMaster",
       "id": "EA9E9151-333A-4E80-B568-34AE254BA331"
     },
@@ -80,6 +68,10 @@
     {
       "class": "symbolMaster",
       "id": "907C7D1D-63B7-4DBD-A063-E83744913F25"
+    },
+    {
+      "class": "symbolMaster",
+      "id": "EE163055-EF25-4636-A8D1-28441CBABDF4"
     }
   ],
   "name": "Symbols",

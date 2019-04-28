@@ -1,0 +1,101 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "4A77A737-2250-487F-8203-A6545A18D08A",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 40,
+    "width": 298,
+    "x": 0,
+    "y": 0
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapePath",
+      "id": "14D4EA1B-1A49-4525-B587-1BF82F7B016A"
+    },
+    {
+      "class": "shapePath",
+      "id": "718FB443-29A2-4025-BEF2-3F3884C33A80"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "FAFF41D4-7AA9-4628-8119-85737B92626C"
+    },
+    {
+      "class": "shapePath",
+      "id": "EE75425C-5673-480C-B4D9-90C1926B06EB"
+    },
+    {
+      "class": "shapePath",
+      "id": "009B10D6-79F5-48E4-95F2-37D4C1C34EF4"
+    },
+    {
+      "class": "shapePath",
+      "id": "369A18EC-1671-4953-8698-5C8F528A8DF7"
+    },
+    {
+      "class": "shapePath",
+      "id": "3246F654-1467-4BF6-8AA7-4AFF25FABC91"
+    },
+    {
+      "class": "shapePath",
+      "id": "E4C69BF6-3E11-4F90-AB0D-00C17AEF47DA"
+    },
+    {
+      "class": "shapePath",
+      "id": "556E4374-A79D-4872-B17F-2E98DA7FABB0"
+    },
+    {
+      "class": "shapePath",
+      "id": "EF6A8DD6-F595-4815-B8C9-21C01EE68766"
+    },
+    {
+      "class": "shapePath",
+      "id": "EF0E3EAB-9E3B-4F42-A030-51DE3E01CF49"
+    },
+    {
+      "class": "shapePath",
+      "id": "1ADAC62D-558C-4E1C-A7A6-C7FACBAEFADF"
+    },
+    {
+      "class": "shapePath",
+      "id": "BB5B5D12-95AD-4827-A146-61551C1E6E13"
+    }
+  ],
+  "name": "icn-partner-nbc_news",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}
