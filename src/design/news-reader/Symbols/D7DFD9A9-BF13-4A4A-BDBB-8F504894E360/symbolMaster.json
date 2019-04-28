@@ -8,9 +8,9 @@
     "red": 1
   },
   "booleanOperation": -1,
-  "changeIdentifier": 129,
+  "changeIdentifier": 304,
   "clippingMaskMode": 0,
-  "do_objectID": "EE163055-EF25-4636-A8D1-28441CBABDF4",
+  "do_objectID": "D7DFD9A9-BF13-4A4A-BDBB-8F504894E360",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -23,10 +23,10 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 40,
-    "width": 298,
-    "x": 6908,
-    "y": 9
+    "height": 28,
+    "width": 32,
+    "x": 7764,
+    "y": -552
   },
   "groupLayout": {
     "_class": "MSImmutableFreeformGroupLayout"
@@ -53,10 +53,10 @@
   "layers": [
     {
       "class": "group",
-      "id": "4A77A737-2250-487F-8203-A6545A18D08A"
+      "id": "6365E30E-CCE2-4267-836F-58F7DBADA0F3"
     }
   ],
-  "name": "icn-partner-nbc_news",
+  "name": "icon/following/default",
   "nameIsFixed": false,
   "overrideProperties": [
   ],
@@ -72,7 +72,7 @@
     "startMarkerType": 0,
     "windingRule": 1
   },
-  "symbolID": "C02326FD-F664-45B9-8A2F-F90AF0E68839",
+  "symbolID": "136DF10E-096E-492B-B8FF-D26FCA630AEC",
   "verticalRulerData": {
     "_class": "rulerData",
     "base": 0,

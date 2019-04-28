@@ -1,5 +1,5 @@
 {
-  "_class": "symbolMaster",
+  "_class": "artboard",
   "backgroundColor": {
     "_class": "color",
     "alpha": 1,
@@ -7,10 +7,9 @@
     "green": 1,
     "red": 1
   },
-  "booleanOperation": -1,
-  "changeIdentifier": 129,
+  "booleanOperation": 0,
   "clippingMaskMode": 0,
-  "do_objectID": "EE163055-EF25-4636-A8D1-28441CBABDF4",
+  "do_objectID": "52EB29C1-3276-4F51-8B7F-C97C55E001BB",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -23,25 +22,31 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 40,
-    "width": 298,
-    "x": 6908,
-    "y": 9
+    "height": 800,
+    "width": 368,
+    "x": 4886,
+    "y": 186
+  },
+  "grid": {
+    "_class": "simpleGrid",
+    "gridSize": 16,
+    "isEnabled": true,
+    "thickGridTimes": 10
   },
   "groupLayout": {
     "_class": "MSImmutableFreeformGroupLayout"
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": false,
+  "hasClickThrough": true,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
     "guides": [
+      184
     ]
   },
   "includeBackgroundColorInExport": true,
-  "includeBackgroundColorInInstance": false,
   "includeInCloudUpload": true,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -49,17 +54,47 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 2,
   "layers": [
     {
+      "class": "symbolInstance",
+      "id": "55249DED-271B-4DFD-9E44-EDD3FFF6E3B2"
+    },
+    {
+      "class": "text",
+      "id": "7BC20D0F-4A74-4FB1-BEF2-2870423A06F0"
+    },
+    {
+      "class": "text",
+      "id": "3C62AE9E-0660-4E31-90E3-8CEFE25706C7"
+    },
+    {
+      "class": "text",
+      "id": "6931C233-C065-4A2C-879F-6EDFFC1E7330"
+    },
+    {
       "class": "group",
-      "id": "4A77A737-2250-487F-8203-A6545A18D08A"
+      "id": "BEA9FA1C-29D5-498E-A8E2-90F1B5FF6980"
+    },
+    {
+      "class": "group",
+      "id": "CBEDCBF9-A133-4842-9EDE-B376C60BCAA6"
+    },
+    {
+      "class": "group",
+      "id": "11A03D7B-081C-4BD4-B4CC-708C0B256D78"
+    },
+    {
+      "class": "group",
+      "id": "FA28B41E-4651-48DB-B0B9-AA17E380FA15"
+    },
+    {
+      "class": "group",
+      "id": "40F4D1B9-78B2-471F-8F15-F013DFBBDA4B"
     }
   ],
-  "name": "icn-partner-nbc_news",
-  "nameIsFixed": false,
-  "overrideProperties": [
-  ],
+  "name": "Portrait",
+  "nameIsFixed": true,
   "resizesContent": false,
   "resizingConstraint": 63,
   "resizingType": 0,
@@ -72,7 +107,6 @@
     "startMarkerType": 0,
     "windingRule": 1
   },
-  "symbolID": "C02326FD-F664-45B9-8A2F-F90AF0E68839",
   "verticalRulerData": {
     "_class": "rulerData",
     "base": 0,

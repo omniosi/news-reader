@@ -52,7 +52,11 @@
   "layers": [
     {
       "class": "artboard",
-      "id": "B68FC898-856C-4645-846E-8FC508D5EB2F"
+      "id": "52EB29C1-3276-4F51-8B7F-C97C55E001BB"
+    },
+    {
+      "class": "artboard",
+      "id": "A8029633-CF12-41F9-813E-F1C102D048F6"
     }
   ],
   "name": "iPhoneX",
