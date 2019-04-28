@@ -2,9 +2,10 @@
   "_class": "symbolInstance",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "E6D4C6AB-B793-4CEB-A43D-D99293FF5963",
+  "do_objectID": "261B0286-CCED-4875-90D2-4DD198F260BC",
   "exportOptions": {
     "_class": "exportOptions",
+    "do_objectID": "2560FA1E-DF90-49DF-8E72-88D2DEBBEA36",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -15,10 +16,11 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": true,
-    "height": 28.00779727095517,
+    "do_objectID": "7511098A-5BC5-473A-BD19-391646BA7343",
+    "height": 28,
     "width": 32,
-    "x": 240,
-    "y": 17.99999999999994
+    "x": 16,
+    "y": 18
   },
   "hasClippingMask": false,
   "horizontalSpacing": 0,
@@ -28,7 +30,7 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "name": "heart-solid",
+  "name": "bars-solid",
   "nameIsFixed": false,
   "overrideValues": [
   ],
@@ -39,11 +41,12 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
+    "do_objectID": "8F5B59D8-0CFF-4392-AA28-8EB6974A6181",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
     "windingRule": 1
   },
-  "symbolID": "35A48D46-DDA9-4A73-8927-3660D7DD0218",
+  "symbolID": "26A00F19-6CE7-46F3-93EC-E4F816A9E563",
   "verticalSpacing": 0
 }

@@ -66,7 +66,7 @@
     {
       "_class": "MSImmutableOverrideProperty",
       "canOverride": true,
-      "overrideName": "A2977FF5-831C-40A1-A798-5227B16CF4E5_layerStyle"
+      "overrideName": "A2977FF5-831C-40A1-A798-5227B16CF4E5_image"
     },
     {
       "_class": "MSImmutableOverrideProperty",
@@ -81,7 +81,7 @@
     {
       "_class": "MSImmutableOverrideProperty",
       "canOverride": true,
-      "overrideName": "A2977FF5-831C-40A1-A798-5227B16CF4E5_image"
+      "overrideName": "A2977FF5-831C-40A1-A798-5227B16CF4E5_layerStyle"
     }
   ],
   "resizesContent": false,

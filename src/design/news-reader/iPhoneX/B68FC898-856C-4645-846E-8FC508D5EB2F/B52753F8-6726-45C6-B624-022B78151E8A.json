@@ -2,9 +2,10 @@
   "_class": "symbolInstance",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "92F62BEF-E356-4B8F-8F71-377FF9E31B59",
+  "do_objectID": "B52753F8-6726-45C6-B624-022B78151E8A",
   "exportOptions": {
     "_class": "exportOptions",
+    "do_objectID": "F17BF1AF-73C5-45D4-8187-7075499FBD2D",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -15,10 +16,11 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": true,
-    "height": 24.94444444444444,
-    "width": 32,
-    "x": 144,
-    "y": 19.99999999999995
+    "do_objectID": "0E16747A-EF50-46F4-9D31-1A882541F33B",
+    "height": 48.09600000000001,
+    "width": 48,
+    "x": 16,
+    "y": 16
   },
   "hasClippingMask": false,
   "horizontalSpacing": 0,
@@ -28,7 +30,7 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "name": "book-open-solid",
+  "name": "news-reader-logo",
   "nameIsFixed": false,
   "overrideValues": [
   ],
@@ -39,11 +41,12 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
+    "do_objectID": "D6F76C89-1A7A-4460-BE6D-125582830252",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
     "windingRule": 1
   },
-  "symbolID": "7DAE839D-8406-40F3-B6D8-34858C2FF9FE",
+  "symbolID": "1F6F1C0B-5E3B-4319-A7CB-1401EEAF8900",
   "verticalSpacing": 0
 }

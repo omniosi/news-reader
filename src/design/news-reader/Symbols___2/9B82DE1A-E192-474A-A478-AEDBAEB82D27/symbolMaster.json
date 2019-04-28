@@ -66,12 +66,12 @@
     {
       "_class": "MSImmutableOverrideProperty",
       "canOverride": true,
-      "overrideName": "77945818-A4BB-4BB0-9210-9EB7038803C5_stringValue"
+      "overrideName": "77945818-A4BB-4BB0-9210-9EB7038803C5_textStyle"
     },
     {
       "_class": "MSImmutableOverrideProperty",
       "canOverride": true,
-      "overrideName": "77945818-A4BB-4BB0-9210-9EB7038803C5_textStyle"
+      "overrideName": "77945818-A4BB-4BB0-9210-9EB7038803C5_stringValue"
     },
     {
       "_class": "MSImmutableOverrideProperty",

@@ -2,9 +2,10 @@
   "_class": "symbolInstance",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "43733E68-C9C0-4B95-B82D-89D1D70F6F86",
+  "do_objectID": "A457BB77-DFA8-4559-A442-AF8CCA63F937",
   "exportOptions": {
     "_class": "exportOptions",
+    "do_objectID": "FE59FA9B-EED9-4204-9F8E-4805955C6CE4",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -15,10 +16,11 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": true,
-    "height": 32.0625,
+    "do_objectID": "146D98DE-D7E7-487D-9F28-EDC3C0AF457E",
+    "height": 24.94444444444444,
     "width": 32,
-    "x": 272,
-    "y": 16
+    "x": 167,
+    "y": 19.99999999999995
   },
   "hasClippingMask": false,
   "horizontalSpacing": 0,
@@ -28,7 +30,7 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "name": "search-solid",
+  "name": "book-open-solid",
   "nameIsFixed": false,
   "overrideValues": [
   ],
@@ -39,11 +41,12 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
+    "do_objectID": "350D08F1-EB08-4485-AF27-ACA318E4308C",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
     "windingRule": 1
   },
-  "symbolID": "34BDD1B7-8397-47B7-9015-2D9BE55D0C3A",
+  "symbolID": "7DAE839D-8406-40F3-B6D8-34858C2FF9FE",
   "verticalSpacing": 0
 }
