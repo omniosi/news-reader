@@ -24,8 +24,8 @@
     "constrainProportions": false,
     "height": 800,
     "width": 368,
-    "x": 5354,
-    "y": 186
+    "x": 109,
+    "y": -189
   },
   "grid": {
     "_class": "simpleGrid",
@@ -93,7 +93,7 @@
       "id": "6CC69A51-D286-4BA8-BDAF-113BB3345D6C"
     }
   ],
-  "name": "Portrait_menu",
+  "name": "News_menu",
   "nameIsFixed": true,
   "resizesContent": false,
   "resizingConstraint": 63,

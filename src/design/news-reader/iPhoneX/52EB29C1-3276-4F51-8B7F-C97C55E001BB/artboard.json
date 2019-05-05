@@ -24,8 +24,8 @@
     "constrainProportions": false,
     "height": 800,
     "width": 368,
-    "x": 4886,
-    "y": 186
+    "x": -311,
+    "y": -189
   },
   "grid": {
     "_class": "simpleGrid",
@@ -54,7 +54,7 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 2,
+  "layerListExpandedType": 0,
   "layers": [
     {
       "class": "symbolInstance",
@@ -93,7 +93,7 @@
       "id": "40F4D1B9-78B2-471F-8F15-F013DFBBDA4B"
     }
   ],
-  "name": "Portrait",
+  "name": "News",
   "nameIsFixed": true,
   "resizesContent": false,
   "resizingConstraint": 63,
