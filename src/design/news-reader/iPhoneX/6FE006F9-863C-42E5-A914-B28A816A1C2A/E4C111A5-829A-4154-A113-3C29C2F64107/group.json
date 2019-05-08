@@ -1,0 +1,89 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "E4C111A5-829A-4154-A113-3C29C2F64107",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "D1DE4E59-9746-4770-88FA-9D1F223267F9",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "CA3DA51E-607B-4FF4-9107-88D8FF1532D9",
+    "height": 224,
+    "width": 178,
+    "x": 0,
+    "y": 80
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout",
+    "do_objectID": "6863C676-3A8D-41FF-8BDF-57FF461E1EAF"
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "D50D189F-D999-4A47-ADE4-0EE38B08D0D0"
+    },
+    {
+      "class": "rectangle",
+      "id": "F56B2941-8351-428D-B33F-C3BB10115CED"
+    },
+    {
+      "class": "text",
+      "id": "219EDAFC-B6C8-4236-8C78-C8424A2E46EA"
+    },
+    {
+      "class": "text",
+      "id": "9F536156-7E46-4307-BA22-A9BA10041939"
+    },
+    {
+      "class": "text",
+      "id": "3E4A3DC6-758D-4857-BA4F-65ABB63BB6F0"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "F2101E7E-6E1C-44E6-96EA-D72F3890435F"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "6DD003B7-B76D-4AB2-83DB-C9AC37B290A7"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "0AB44EBE-CA49-44F4-BACC-4DC2532CEF8B"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "15AD6239-9747-4FB4-880F-06E08C0D46A6"
+    }
+  ],
+  "name": "menu-dropdown",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "F15BAE16-36A1-4062-AC47-ABFE23C562EC",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

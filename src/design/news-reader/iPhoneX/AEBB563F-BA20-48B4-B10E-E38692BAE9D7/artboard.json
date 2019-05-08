@@ -1,0 +1,108 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "do_objectID": "A466485D-A556-4478-8751-5D39F4811AD8",
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "AEBB563F-BA20-48B4-B10E-E38692BAE9D7",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "B03BF3FA-4B32-4AE6-B146-50238D415CE2",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "65419CF3-7A23-46B4-95FE-DB4E937BED3D",
+    "height": 800,
+    "width": 368,
+    "x": -311,
+    "y": 711
+  },
+  "grid": {
+    "_class": "simpleGrid",
+    "do_objectID": "1C1F7043-D926-4698-BC0C-03514EDD832F",
+    "gridSize": 16,
+    "isEnabled": true,
+    "thickGridTimes": 10
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout",
+    "do_objectID": "612E37F1-8C01-4D19-8352-57E7583B22FE"
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "271DD0FE-9386-4BEC-8D05-2FEE4CF4B422",
+    "guides": [
+      184
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "symbolInstance",
+      "id": "C7E914C2-C65C-4A06-97C1-B4C28833195F"
+    },
+    {
+      "class": "group",
+      "id": "7AB76527-A230-42D4-BAA8-CF808A5EFDAB"
+    },
+    {
+      "class": "group",
+      "id": "97516B8F-72D1-43D2-9AF9-BC6F7F230493"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "CD1A15FF-4880-4F85-89C8-EF1EC5A82C90"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "9DA5655C-498D-4010-A689-135B542F59B1"
+    }
+  ],
+  "name": "Magazines",
+  "nameIsFixed": true,
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "8572A8B9-BFB6-4396-96CC-AEDB0F24DA87",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "1382A488-4E7D-4445-AB6D-72E2469DCF6C",
+    "guides": [
+    ]
+  }
+}

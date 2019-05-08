@@ -1,0 +1,108 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "do_objectID": "FDF1F752-87EB-4CF0-9D47-F1B59A958263",
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "13DCBE9B-08C2-462D-BBD2-4D0792120FE2",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "E7EBDD5F-3135-4F8B-B7E0-D7838D8EDBD2",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "24C5D78E-45DB-4E4E-BA1C-80E25E493797",
+    "height": 800,
+    "width": 368,
+    "x": -311,
+    "y": 1611
+  },
+  "grid": {
+    "_class": "simpleGrid",
+    "do_objectID": "8742C5E9-233D-4F6C-9B45-69CFBB8C99CA",
+    "gridSize": 16,
+    "isEnabled": true,
+    "thickGridTimes": 10
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout",
+    "do_objectID": "8CB780CF-1A04-43B2-9AF2-5954CFBFEA7C"
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "688FD41E-A270-4F9D-B7FF-5080AD724E98",
+    "guides": [
+      184
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "symbolInstance",
+      "id": "EC6704CE-F277-4C52-8453-D2645989C118"
+    },
+    {
+      "class": "group",
+      "id": "B0836B8D-8AC5-4A15-B0F9-86D185249A1E"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "0B0D1663-0A6D-4C15-92F8-425776BD042C"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "C82AF182-0C2A-46B6-9669-75FACA7CD522"
+    },
+    {
+      "class": "group",
+      "id": "4CEE4D33-670F-473C-ABD0-7B65514DA215"
+    }
+  ],
+  "name": "Interests",
+  "nameIsFixed": true,
+  "resizesContent": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "30B3CC62-1129-4325-A384-F355FECD10E5",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "A244CC5A-0F32-4466-ACEE-62AC43830788",
+    "guides": [
+    ]
+  }
+}

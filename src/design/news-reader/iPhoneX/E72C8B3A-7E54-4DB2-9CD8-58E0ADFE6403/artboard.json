@@ -1,0 +1,128 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "do_objectID": "2F965ACF-00AA-47D0-A019-561A2D095CA1",
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "E72C8B3A-7E54-4DB2-9CD8-58E0ADFE6403",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "A171FD7C-B292-4944-A706-5630CF85ADF8",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "AFBB5C26-4FB4-4980-8DC7-EDFC66932A4C",
+    "height": 800,
+    "width": 368,
+    "x": -311,
+    "y": -189
+  },
+  "grid": {
+    "_class": "simpleGrid",
+    "do_objectID": "4C62FCFC-BFF4-4225-8808-D5045C0D6316",
+    "gridSize": 16,
+    "isEnabled": true,
+    "thickGridTimes": 10
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout",
+    "do_objectID": "2E215E15-B055-470A-8556-135DDF3E8CE0"
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "8119C976-E8B3-404B-AC45-CF0A014DD770",
+    "guides": [
+      184
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "symbolInstance",
+      "id": "BF61A08E-23B5-4C1A-A235-B9042AFE2FB8"
+    },
+    {
+      "class": "text",
+      "id": "97335C60-361E-4104-B99B-E54B85AA6911"
+    },
+    {
+      "class": "text",
+      "id": "F0A3213C-6973-44BD-94A3-85C1908BD7DF"
+    },
+    {
+      "class": "text",
+      "id": "E6AA6CC1-3539-4ABB-8F9F-492BBDF1139B"
+    },
+    {
+      "class": "group",
+      "id": "D056A299-62C0-495D-ABB6-151E544A0FA2"
+    },
+    {
+      "class": "group",
+      "id": "25DB5FFC-BB4F-4B24-A23A-7B6171C8CDE4"
+    },
+    {
+      "class": "group",
+      "id": "B1CD4009-C3EC-438C-9108-A99B8ED594B8"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "3DA495BA-C019-423F-84AC-974C5C22699C"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "F2CD03EC-E1AB-43B1-8A5D-5C6C30C1DF36"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "AFEAAEF9-2FD2-4C43-886C-B05AD8D406A0"
+    }
+  ],
+  "name": "News",
+  "nameIsFixed": true,
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "A600E790-EA70-4720-A2B8-AEC36A94B47F",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "45F706A1-C364-478F-BBCF-9B230266941F",
+    "guides": [
+    ]
+  }
+}

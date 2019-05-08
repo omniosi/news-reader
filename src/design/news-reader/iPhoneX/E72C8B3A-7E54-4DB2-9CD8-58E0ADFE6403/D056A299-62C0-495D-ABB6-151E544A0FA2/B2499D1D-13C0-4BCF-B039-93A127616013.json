@@ -1,0 +1,52 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "B2499D1D-13C0-4BCF-B039-93A127616013",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "2900AE8B-8536-4197-9410-7D01C58D077E",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "do_objectID": "2A2934C5-E5B0-4AAE-9AB4-CDD6B7E6940B",
+    "height": 16,
+    "width": 119.2,
+    "x": 3.694822225952521e-13,
+    "y": 248
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "icn-partner-nbc_news",
+  "nameIsFixed": false,
+  "overrideValues": [
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "F3991BA8-62F8-4C90-927C-12A549CAA827",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "C02326FD-F664-45B9-8A2F-F90AF0E68839",
+  "verticalSpacing": 0
+}

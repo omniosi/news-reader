@@ -1,0 +1,52 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "73FF3EC8-6EC4-4F15-8150-14039E80429A",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "D8AA2100-9D4F-4CD1-B71D-A1268B5E87CF",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "do_objectID": "CAFAC974-4FCB-4182-8D8B-E9F27AB802F2",
+    "height": 48.09600000000001,
+    "width": 48,
+    "x": 0,
+    "y": -3.552713678800501e-15
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "news-reader-logo",
+  "nameIsFixed": false,
+  "overrideValues": [
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "784AB1A6-25F4-42A8-9F16-D6AF69AFE38D",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "1F6F1C0B-5E3B-4319-A7CB-1401EEAF8900",
+  "verticalSpacing": 0
+}

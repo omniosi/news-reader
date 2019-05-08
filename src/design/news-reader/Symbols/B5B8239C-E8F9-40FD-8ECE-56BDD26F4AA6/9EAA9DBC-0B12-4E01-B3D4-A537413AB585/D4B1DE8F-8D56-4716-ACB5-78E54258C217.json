@@ -1,0 +1,52 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "D4B1DE8F-8D56-4716-ACB5-78E54258C217",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "711FC2D8-D16F-467D-9853-7A161EC1EC13",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "do_objectID": "41A5E82B-0102-4BEB-AB8A-EC84380E5C0F",
+    "height": 18.75,
+    "width": 24,
+    "x": 127,
+    "y": 23
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "icon/magazines/default",
+  "nameIsFixed": false,
+  "overrideValues": [
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "8DE4C8F9-AD1A-476D-A932-D06C84761717",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "0BE7D485-F79F-4C83-BD41-34D7395F6509",
+  "verticalSpacing": 0
+}
